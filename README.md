@@ -4,4 +4,4 @@ Analyzing and forecasting a cyclist's heart rate using different time series adv
 
 See pdf file for full details and results of the models!
 
-See Final_DLM_result_graph.png for quick summary of the DLM model.
+See Final_DLM_result_graph.png for snippet forecast of the DLM model.
